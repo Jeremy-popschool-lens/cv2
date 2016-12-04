@@ -117,9 +117,7 @@ li {
 
 html {
 		margin: 0px;
-		padding: 0px;
 		background-image: url(http://wallpapercave.com/wp/Hd7S83Q.png);
-		max-width:768px;
 }
 
 #photo {
@@ -142,7 +140,6 @@ nav ul {
 
 		list-style-type:none;
 		padding: 5px;
-		margin: 0px;
 		text-align:center;
 		top:10%;
 		background:silver;
@@ -191,6 +188,13 @@ nav li a {
 #aboutme {
 
 		text-align: justify;
+}
+
+#logopop {
+
+		width: 145px;
+		height:125px;
+		float: right;
 }
 
 
