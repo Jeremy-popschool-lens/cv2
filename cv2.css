@@ -4,11 +4,7 @@ h3 {
         color: #708090;
         font-size: 15px;
         display: block;
-
-        
-        
-    
-}
+ }
 
 h1 {
 		text-align:center;
@@ -45,18 +41,14 @@ h2 {
 
 footer {
 
-			margin: 0%;
-			padding: 0%;
+	margin: 0%;
+	padding: 0%;
 
 }
 
 
 #head { 
    
-         
-         background-image: url(https://cdn.pixabay.com/photo/2013/07/13/12/08/background-159244_960_720.png)
-         margin-left:5px;
-         margin-right: 35px;
          padding-bottom: 2px;
          padding-top: 2px;
          
@@ -81,9 +73,9 @@ p {
       
 .logo1 { 
 
-       left: 400px;
-       position: relative;
-       height: 20%;
+          left: 400px;
+          position: relative;
+          height: 20%;
       
       }
 
@@ -98,9 +90,9 @@ p {
        
 
 li {
-		text-align: left;
-		font-size: 10px;
-		color:#333333;
+	  text-align: left;
+	  font-size: 15px;
+	  color: black;
 
 
 }
@@ -108,9 +100,6 @@ li {
 html {
 		margin: 8%;
 		background-image: url(http://celb.lu/wp-content/uploads/2014/04/Gray-plain-website-background.jpg);
-		
-		http://celb.lu/wp-content/uploads/2014/04/Gray-plain-website-background.jpg
-		http://wallpapercave.com/wp/Hd7S83Q.png
 }
 
 
@@ -189,8 +178,8 @@ nav li a {
 		width: 145px;
 		height:125px;
 		position: absolute;
-		left: 1065;
-		top: 10;
+		left: 1065px;
+		top: 10px;
 }
 
 
